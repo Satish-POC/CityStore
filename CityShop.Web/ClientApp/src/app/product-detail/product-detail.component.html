@@ -1,0 +1,18 @@
+
+<ngb-accordion [closeOthers]="true" activeIds="static-1">
+  <ngb-panel id="static-1" [title]="title">
+    <ng-template ngbPanelContent>
+      <div *ngIf="product">
+
+        <h2>{{product.name | uppercase}} Details</h2>
+        <div><span>Id: </span>{{product.id}}</div>
+        <div>
+          <span>
+            {{product.description}}
+          </span>
+        </div>
+        <div><span>Price: </span>{{product.price | currency}}</div>
+      </div>
+    </ng-template>
+  </ngb-panel>
+</ngb-accordion>

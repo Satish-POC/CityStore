@@ -1,0 +1,9 @@
+E:\Learn\dotnet\CityShop\CityShop.WebAPI\CityShop.Models\bin\Debug\netstandard2.0\CityShop.Domain.deps.json
+E:\Learn\dotnet\CityShop\CityShop.WebAPI\CityShop.Models\bin\Debug\netstandard2.0\CityShop.Domain.dll
+E:\Learn\dotnet\CityShop\CityShop.WebAPI\CityShop.Models\bin\Debug\netstandard2.0\CityShop.Domain.pdb
+E:\Learn\dotnet\CityShop\CityShop.WebAPI\CityShop.Models\obj\Debug\netstandard2.0\CityShop.Domain.AssemblyInfoInputs.cache
+E:\Learn\dotnet\CityShop\CityShop.WebAPI\CityShop.Models\obj\Debug\netstandard2.0\CityShop.Domain.AssemblyInfo.cs
+E:\Learn\dotnet\CityShop\CityShop.WebAPI\CityShop.Models\obj\Debug\netstandard2.0\CityShop.Domain.dll
+E:\Learn\dotnet\CityShop\CityShop.WebAPI\CityShop.Models\obj\Debug\netstandard2.0\CityShop.Domain.pdb
+E:\Learn\dotnet\CityShop\CityShop.WebAPI\CityShop.Models\obj\Debug\netstandard2.0\CityShop.Domain.csproj.CoreCompileInputs.cache
+E:\Learn\dotnet\CityShop\CityShop.WebAPI\CityShop.Models\obj\Debug\netstandard2.0\CityShop.Domain.csprojAssemblyReference.cache

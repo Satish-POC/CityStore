@@ -1,0 +1,21 @@
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col" sortable="name" (sort)="onSort($event)">Name</th>
+      <th scope="col">Description</th>
+      <th scope="col" sortable="price" (sort)="onSort($event)">Price</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let product of products" (click)="onProductSelect(product)">
+      <th scope="row">{{product.id}}</th>
+      <td>
+        {{ product.name }}
+      </td>
+      <td>{{ product.description | uppercase }}</td>
+      <td>{{ product.price | currency }}</td>
+    </tr>
+  </tbody>
+</table>
+<app-product-detail [title]="selectedProductPanelTitle" [product]="selectedProduct"></app-product-detail>

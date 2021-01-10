@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "RlXoOhXrZNiqBmP8Tvezrgbo9C1JOY1hpyqJ2xrQqC83kW73+fCSIM1Z+g8VmCQW4b2sxu1FJHjv6HClEU8SZg==",
+  "success": true,
+  "projectFilePath": "E:\\Learn\\dotnet\\CityStore\\CityShop.Data\\CityShop.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\satis\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\satis\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\satis\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\satis\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\satis\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\satis\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\satis\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
