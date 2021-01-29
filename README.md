@@ -3,7 +3,7 @@
  ### This project is built with few assumptions.
   * Future user stories would be about writing the product or oder objects back to the server.
   * Placing an order might be very different kind of interaction  e.g. writing to a differeent database.
-  * This whole architecture is an overkill for the use case. However the purspose is to piggybacking this project to ride some of the overwhelming design concepts. Though It will reduce the readability for such a small usecase.
+  * This whole architecture is an overkill for the use case. However the purspose is this project as piggyback to ride some of the overwhelming design concepts. Though It will reduce the readability for such a small usecase.
 
 
 ### Desgin consideration
